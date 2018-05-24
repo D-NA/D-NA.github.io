@@ -30,17 +30,15 @@ Jul 2005 -- Jun 2006
 Pelatihan
 ---------
 
--   IBM AIX --- Basics
--   IBM DB2 --- Academic Associate
--   IELTS Preparation Course --- Band 7
--   Microsoft Office --- Specialist (Excel dan Powerpoint 2010)
+-   Programming Dasar
+-   Microsoft Office --- (Word, Excel, Powerpoint 2016)
 
 Keahlian
 --------
 
--   Administrasi sistem Linux
--   Pemrosesan paralel
--   Jaringan komputer
+-   Mengetik dengan jari
+-   Duduk
+-   Makan tanpa sendok
 
 Hobi
 ----
