@@ -4,7 +4,7 @@ Nadhir Dhanu Dwinanda
 Mahasiswa Ilmu Komputer IPB
 
 <address>
-Jl Cangkring Tengah Blok C-1<br>
+Cirebon, Jawa Barat<br>
 +62 813-1399-0827<br>
 dhanu_dwinanda@yahoo.com<br>
 </address>
@@ -36,9 +36,7 @@ Pelatihan
 Keahlian
 --------
 
--   Mengetik dengan jari
--   Duduk
--   Makan tanpa sendok
+-  C++, Javascript
 
 Hobi
 ----
